@@ -10,11 +10,20 @@ redirect_from:
 Education
 ======
 
-| | |
-|:---|:---|
-| Feb. 2025 -- Now | Ph.D. student, School of Computing, KAIST (Advisor: Sooel Son) |
-| Feb. 2023 -- Feb. 2025 | M.S., School of Computing, KAIST (Advisor: Sooel Son) |
-| Feb. 2018 -- Feb. 2023 | B.S., School of Computing, KAIST |
+<table style="border: none; font-size: 1em;">
+  <tr style="background: none;">
+    <td style="border: none; white-space: nowrap; padding-right: 1.5em;">Feb. 2025 -- Now</td>
+    <td style="border: none;">Ph.D. student, School of Computing, KAIST (Advisor: Sooel Son)</td>
+  </tr>
+  <tr style="background: none;">
+    <td style="border: none; white-space: nowrap; padding-right: 1.5em;">Feb. 2023 -- Feb. 2025</td>
+    <td style="border: none;">M.S., School of Computing, KAIST (Advisor: Sooel Son)</td>
+  </tr>
+  <tr style="background: none;">
+    <td style="border: none; white-space: nowrap; padding-right: 1.5em;">Feb. 2018 -- Feb. 2023</td>
+    <td style="border: none;">B.S., School of Computing, KAIST</td>
+  </tr>
+</table>
 
 Publications
 ======
