@@ -6,6 +6,7 @@ permalink: /publication/keum-privateinvestigator-sec25
 date: 2025-08-01
 venue: '34th USENIX Security Symposium (USENIX Security 25)'
 venue_short: 'USENIX Security 2025'
+top_tier: true
 authors: 'Seongho Keum, Dongwon Shin, Leo Marchyok, Sanghyun Hong, and Sooel Son'
 paperurl: '/files/keum-privateinvestigator-sec25.pdf'
 bibtexurl: '/files/bibtex-keum-privateinvestigator-sec25.bib'
