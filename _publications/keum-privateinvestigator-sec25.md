@@ -10,5 +10,6 @@ top_tier: true
 authors: 'Seongho Keum, Dongwon Shin, Leo Marchyok, Sanghyun Hong, and Sooel Son'
 paperurl: '/files/keum-privateinvestigator-sec25.pdf'
 bibtexurl: '/files/bibtex-keum-privateinvestigator-sec25.bib'
+codeurl: 'https://github.com/WSP-LAB/PrivateInvestigator'
 citation: 'Seongho Keum, Dongwon Shin, Leo Marchyok, Sanghyun Hong, and Sooel Son. &quot;Private Investigator: Extracting Personally Identifiable Information from Large Language Models Using Optimized Prompts.&quot; <i>USENIX Security 25</i>. pp. 8175&ndash;8194.'
 ---
