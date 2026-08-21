@@ -1,5 +1,5 @@
 ---
-title: "Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions (To appear)"
+title: "Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions"
 collection: publications
 category: conferences
 permalink: /publication/lee-siteisolationisdead-snp25
